@@ -1,0 +1,6 @@
+.availableTest {
+    background: rgb(255,255,255);
+    width: 100%;
+    height: 160px;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(159,159,158,1) 100%);
+}
